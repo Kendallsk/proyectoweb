@@ -17,11 +17,11 @@
             .bg-white {
                 --tw-bg-opacity: 1;
                 background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-                background-image: url('http://localhost/GamerFest/resources/views/image/gamer.jpg');
+                background-image: url('http://localhost/proyectoweb/resources/views/image/gamer.jpg');
             }
 
             .bg-dots-darker {
-                background-image: url('http://localhost/GamerFest/resources/views/image/fondo.jpg');
+                background-image: url('http://localhost/proyectoweb/resources/views/image/fondo.jpg');
             }
 
             .center-container {
@@ -56,14 +56,14 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-left">
-                    <img src="http://localhost/GamerFest/resources/views/image/logo.png" alt="Logo" class="logo">
+                    <img src="http://localhost/proyectoweb/resources/views/image/logo.png" alt="Logo" class="logo">
                 </div>
 
                 <div class="mt-16">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
                         <a href="https://laravel.com/docs" class="scale-10 p-6 bg-white from-gray-50/50 via-transparent rounded-lg shadow-2xl shadow-gray-50/20 flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div class="center-container">
-                                <img src="http://localhost/GamerFest/resources/views/image/fornite.png" alt="fornite" class="fornite">
+                                <img src="http://localhost/proyectoweb/resources/views/image/fornite.png" alt="fornite" class="fornite">
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900">FORNITE</h2>
 
                                 <p class="mt-4 text-gray-500 text-sm leading-relaxed">
@@ -77,7 +77,7 @@
                         <a href="https://laracasts.com" class="scale-100 p-6 bg-white from-gray-700/50 via-transparent rounded-lg shadow-2xl shadow-gray-500/20 flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div class="center-container"> 
                                 <div> 
-                                    <img src="http://localhost/GamerFest/resources/views/image/lol.png" alt="lol" class="lol">                     
+                                    <img src="http://localhost/proyectoweb/resources/views/image/lol.png" alt="lol" class="lol">                     
                                 </div>   
                                     <h2 class="mt-6 text-xl font-semibold text-gray-900">LEAGUE of LEGENDS</h2>
                                     <p class="mt-4 text-gray-500 text-sm leading-relaxed">
@@ -89,7 +89,7 @@
                         <a href="https://laravel-news.com" class="scale-100 p-6 bg-white from-gray-700/50 via-transparent rounded-lg shadow-2xl shadow-gray-500/20 flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div class="center-container">
                                 <div class="flex justify-center"> 
-                                    <img src="http://localhost/GamerFest/resources/views/image/valorant.png" alt="val" class="val">                     
+                                    <img src="http://localhost/proyectoweb/resources/views/image/valorant.png" alt="val" class="val">                     
                                 </div>   
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900">VALORANT</h2>
 
@@ -104,7 +104,7 @@
                         <div class="scale-100 p-6 bg-white from-gray-700/50 via-transparent rounded-lg shadow-2xl shadow-gray-500/20 flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div class="center-container">
                                 <div class="flex justify-center"> 
-                                        <img src="http://localhost/GamerFest/resources/views/image/batte.png" alt="batt" class="batt">                     
+                                        <img src="http://localhost/proyectoweb/resources/views/image/batte.png" alt="batt" class="batt">                     
                                     </div>   
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900">BATTLEGROUNDS (PUBG)</h2>
 
