@@ -37,6 +37,15 @@
                     <ul class="navbar-nav mr-auto">
 						<!--Nav Bar Hooks - Do not delete!!-->
 						<li class="nav-item">
+                            <a href="{{ url('/grupos') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Grupos</a> 
+                        </li>
+						<li class="nav-item">
+                            <a href="{{ url('/ganrondas') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Ganrondas</a> 
+                        </li>
+						<li class="nav-item">
+                            <a href="{{ url('/grupo') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Grupo</a> 
+                        </li>
+						<li class="nav-item">
                             <a href="{{ url('/categorias') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Categorias</a> 
                         </li>
 						<li class="nav-item">
