@@ -37,6 +37,12 @@
                     <ul class="navbar-nav mr-auto">
 						<!--Nav Bar Hooks - Do not delete!!-->
 						<li class="nav-item">
+                            <a href="{{ url('/validacionpagos') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Validacionpagos</a> 
+                        </li>
+						<li class="nav-item">
+                            <a href="{{ url('/jugadores') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Jugadores</a> 
+                        </li>
+						<li class="nav-item">
                             <a href="{{ url('/categorias') }}" class="nav-link"><i class="fab fa-laravel text-info"></i> Categorias</a> 
                         </li>
 						<li class="nav-item">
